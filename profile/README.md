@@ -1,3 +1,4 @@
+<!-- GitHub 组织主页读取本文件；仓库首页主文件为 ../README.md，两份内容保持同步。 -->
 <div align="center">
 
 <img src="assets/wordmark.svg" alt="KuroBridge" width="380">
